@@ -1,10 +1,12 @@
-﻿namespace AppliedActivity_5;
+﻿using Plugin.Firebase.Core.Platforms.Android;
+
+namespace AppliedActivity_5;
 
 public static class MauiProgram
 {
 	public static MauiApp CreateMauiApp()
 	{
-		var builder = MauiApp.CreateBuilder();
+        var builder = MauiApp.CreateBuilder();
 		builder
 			.UseMauiApp<App>()
 			.ConfigureFonts(fonts =>

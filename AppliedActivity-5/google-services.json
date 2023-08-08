@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "337523665875",
+    "firebase_url": "https://alummeet-af9e0-default-rtdb.firebaseio.com",
+    "project_id": "alummeet-af9e0",
+    "storage_bucket": "alummeet-af9e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337523665875:android:8d2e4810347bb4b5b75d26",
+        "android_client_info": {
+          "package_name": "com.companyname.alumeet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337523665875-gl9aldom5mh4c0j2lvani450192qsir7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.companyname.alumeet",
+            "certificate_hash": "9360ab0becf77b1b0393510d1b49b921ba73ac1f"
+          }
+        },
+        {
+          "client_id": "337523665875-f17kel7k55ajkbrj18hf4eeanoephh2r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXDW0GncUTVVGoLRR-EkdUcVhCw3dbxPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337523665875-f17kel7k55ajkbrj18hf4eeanoephh2r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
